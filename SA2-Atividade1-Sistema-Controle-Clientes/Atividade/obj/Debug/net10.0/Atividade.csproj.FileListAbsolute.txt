@@ -1,0 +1,15 @@
+C:\Dev\curso_Programador_Full_Stack\UC12-Codificação para Back-End\Sistema-Controle-Clientes\Atividade\bin\Debug\net10.0\Atividade.exe
+C:\Dev\curso_Programador_Full_Stack\UC12-Codificação para Back-End\Sistema-Controle-Clientes\Atividade\bin\Debug\net10.0\Atividade.deps.json
+C:\Dev\curso_Programador_Full_Stack\UC12-Codificação para Back-End\Sistema-Controle-Clientes\Atividade\bin\Debug\net10.0\Atividade.runtimeconfig.json
+C:\Dev\curso_Programador_Full_Stack\UC12-Codificação para Back-End\Sistema-Controle-Clientes\Atividade\bin\Debug\net10.0\Atividade.dll
+C:\Dev\curso_Programador_Full_Stack\UC12-Codificação para Back-End\Sistema-Controle-Clientes\Atividade\bin\Debug\net10.0\Atividade.pdb
+C:\Dev\curso_Programador_Full_Stack\UC12-Codificação para Back-End\Sistema-Controle-Clientes\Atividade\obj\Debug\net10.0\Atividade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\curso_Programador_Full_Stack\UC12-Codificação para Back-End\Sistema-Controle-Clientes\Atividade\obj\Debug\net10.0\Atividade.AssemblyInfoInputs.cache
+C:\Dev\curso_Programador_Full_Stack\UC12-Codificação para Back-End\Sistema-Controle-Clientes\Atividade\obj\Debug\net10.0\Atividade.AssemblyInfo.cs
+C:\Dev\curso_Programador_Full_Stack\UC12-Codificação para Back-End\Sistema-Controle-Clientes\Atividade\obj\Debug\net10.0\Atividade.csproj.CoreCompileInputs.cache
+C:\Dev\curso_Programador_Full_Stack\UC12-Codificação para Back-End\Sistema-Controle-Clientes\Atividade\obj\Debug\net10.0\Atividade.sourcelink.json
+C:\Dev\curso_Programador_Full_Stack\UC12-Codificação para Back-End\Sistema-Controle-Clientes\Atividade\obj\Debug\net10.0\Atividade.dll
+C:\Dev\curso_Programador_Full_Stack\UC12-Codificação para Back-End\Sistema-Controle-Clientes\Atividade\obj\Debug\net10.0\refint\Atividade.dll
+C:\Dev\curso_Programador_Full_Stack\UC12-Codificação para Back-End\Sistema-Controle-Clientes\Atividade\obj\Debug\net10.0\Atividade.pdb
+C:\Dev\curso_Programador_Full_Stack\UC12-Codificação para Back-End\Sistema-Controle-Clientes\Atividade\obj\Debug\net10.0\Atividade.genruntimeconfig.cache
+C:\Dev\curso_Programador_Full_Stack\UC12-Codificação para Back-End\Sistema-Controle-Clientes\Atividade\obj\Debug\net10.0\ref\Atividade.dll
