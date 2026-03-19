@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Dev\\curso_Programador_Full_Stack\\UC12-Codificação para Back-End\\projeto-C#\\OlaMundo\\OlaMundo.csproj",
-      "projectName": "OlaMundo",
-      "projectPath": "C:\\Dev\\curso_Programador_Full_Stack\\UC12-Codificação para Back-End\\projeto-C#\\OlaMundo\\OlaMundo.csproj",
+      "projectUniqueName": "C:\\Dev\\curso_Programador_Full_Stack\\UC12-Codificação para Back-End\\SP2-Cod-Back-End\\SA1\\Atividade.csproj",
+      "projectName": "Atividade",
+      "projectPath": "C:\\Dev\\curso_Programador_Full_Stack\\UC12-Codificação para Back-End\\SP2-Cod-Back-End\\SA1\\Atividade.csproj",
       "packagesPath": "C:\\Users\\MagnoVGomes\\.nuget\\packages\\",
-      "outputPath": "C:\\Dev\\curso_Programador_Full_Stack\\UC12-Codificação para Back-End\\projeto-C#\\OlaMundo\\obj\\",
+      "outputPath": "C:\\Dev\\curso_Programador_Full_Stack\\UC12-Codificação para Back-End\\SP2-Cod-Back-End\\SA1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\MagnoVGomes\\AppData\\Roaming\\NuGet\\NuGet.Config"
